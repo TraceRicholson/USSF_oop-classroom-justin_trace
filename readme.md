@@ -1,5 +1,7 @@
 # OOP Classroom
 
+UPDATED PROJECT WITH COMPLETED SRC INPUTS
+
 This project will require you to build classes for objects you might find in a Galvanize classroom! You will build five classes:
 
 * Computer
